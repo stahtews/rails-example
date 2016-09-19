@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example Shopify app in Ruby
 
 This is an example Shopify application written in [Sinatra](https://github.com/sinatra/sinatra) solely for the purposes of introducing new developers to the Shopify API.
@@ -19,3 +20,7 @@ To retrieve your API credentials, sign up for a [Shopify Partners account](https
 1. Create the `.env` file as described above.
 2. `bundle install` to obtain all of the necessary dependencies
 3. `ruby app.rb` to run the example application.
+=======
+# rails-example
+rails app 
+>>>>>>> f5d3b373e8de38a2b0f1d182869e600b4541e49b
